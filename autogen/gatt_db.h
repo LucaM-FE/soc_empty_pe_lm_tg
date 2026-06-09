@@ -22,8 +22,11 @@ extern const sli_bt_gattdb_t gattdb;
 #define gattdb_system_id                      24
 #define gattdb_env_sensing                    25
 #define gattdb_temperature                    27
-#define gattdb_ota                            28
-#define gattdb_ota_control                    30
+#define gattdb_irradiance_0                   30
+#define gattdb_automation_IO                  32
+#define gattdb_digital_0                      34
+#define gattdb_ota                            36
+#define gattdb_ota_control                    38
 
 
 #endif // __GATT_DB_H

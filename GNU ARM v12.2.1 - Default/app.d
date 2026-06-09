@@ -88,7 +88,21 @@ app.o: ../app.c \
  c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sl_bt_api.h \
  c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sl_bgapi.h \
  c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sl_bt_api_compatibility.h \
- ../app.h
+ ../app.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\app\bluetooth\common\sensor_rht\sl_sensor_rht.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\app\bluetooth\common\sensor_light\sl_sensor_light.h \
+ ../temperature.h \
+ C:\Users\luqui\SimplicityStudio\v5_workspace\soc_empty_pe_lm_tg\autogen/gatt_db.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sli_bt_gattdb_def.h \
+ C:\Users\luqui\SimplicityStudio\v5_workspace\soc_empty_pe_lm_tg\autogen/sl_simple_led_instances.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\driver\leddrv\inc\sl_simple_led.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\driver\leddrv\inc\sl_led.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_gpio.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_bus.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h \
+ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
+ C:\Users\luqui\SimplicityStudio\v5_workspace\soc_empty_pe_lm_tg\config/emlib_core_debug_config.h
 c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_common.h:
 c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg12p\include\em_device.h:
@@ -179,3 +193,17 @@ c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sl_bt_api.
 c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sl_bgapi.h:
 c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sl_bt_api_compatibility.h:
 ../app.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\app\bluetooth\common\sensor_rht\sl_sensor_rht.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\app\bluetooth\common\sensor_light\sl_sensor_light.h:
+../temperature.h:
+C:\Users\luqui\SimplicityStudio\v5_workspace\soc_empty_pe_lm_tg\autogen/gatt_db.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\protocol\bluetooth\inc\sli_bt_gattdb_def.h:
+C:\Users\luqui\SimplicityStudio\v5_workspace\soc_empty_pe_lm_tg\autogen/sl_simple_led_instances.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\driver\leddrv\inc\sl_simple_led.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\driver\leddrv\inc\sl_led.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_gpio.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_bus.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h:
+c:\users\luqui\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
+C:\Users\luqui\SimplicityStudio\v5_workspace\soc_empty_pe_lm_tg\config/emlib_core_debug_config.h:
